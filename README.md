@@ -18,6 +18,8 @@ Code is super easy in markdown, which you can easily do inline `(require net/url
 
 (require net/url)
 ```
+Kevin Ornellas
+kevinseeker
 
 ### My Library: (turtles/graphics)
 
